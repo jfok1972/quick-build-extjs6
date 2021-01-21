@@ -1,0 +1,12 @@
+
+/**
+ * @var {color}
+ * The color to use for the "info" icon when {@link Global_CSS#$enable-font-icons} is `true`.
+ */
+$messagebox-info-glyph-color: dynamic(#1C86EE);
+
+/**
+ * @var {color}
+ * The color to use for the "question" icon when {@link Global_CSS#$enable-font-icons} is `true`.
+ */
+$messagebox-question-glyph-color: dynamic(#FFA07A);
