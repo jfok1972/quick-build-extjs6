@@ -34,6 +34,7 @@ Ext.define('app.view.platform.central.region.HomePage', {
       }, {
         region : 'center',
         layout : 'fit',
-        xtype : 'homepagecontainer'
+        xtype : 'panel'
+        // xtype : 'homepagecontainer'
       }]
 });
