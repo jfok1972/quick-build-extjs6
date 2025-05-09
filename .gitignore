@@ -2,5 +2,5 @@
 
 /build/production
 /build/temp
-
+package-lock.json
 .DS_Store
